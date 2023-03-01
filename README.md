@@ -27,6 +27,6 @@ some:
 
 ## Requirement
 
-- or Magisk 20.4+ Android 9+ ...13 for restoring from booted system
+- or Magisk 20.4+ Android 9+ for restoring from booted system
 - or Android 7+ for restoring from TWRP.
 
