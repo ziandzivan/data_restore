@@ -1,0 +1,6 @@
+id=data_restore
+name=Courier of data_restore script for MAGISK-TWRP
+version=v2.11
+versionCode=4
+author=ziand
+description=Courier of latest version data_restore script to folder /sdcard.
