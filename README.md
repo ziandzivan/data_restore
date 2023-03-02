@@ -7,7 +7,7 @@ Script of restoring User Data backup (created by ![data_backup.sh](https://githu
 
 ### ***Screenshots***
 
-<img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_restore/main/assets/Screenshot_20230301-132028.png"> <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_restore/main/assets/Screenshot_2023-03-02-01-28-55.png">
+<img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_restore/main/assets/Screenshot_20230301-132028.png"> <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_restore/main/assets/Screenshot_2023-03-02-03-36-34.png">
 
 ## Supported devices  
   
