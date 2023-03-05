@@ -47,7 +47,7 @@ There are 2 variants for running `data_restore_v2.xx-MAGISK-TWRP.zip` script:
 - Check or put to the root of any storage device a folder `databackup` with all files and archive `data*.tar` created at backuping.
 - First the script is looking for `databackup` on mounted USB-OTG, then on extSD and after on intSD. Unmount or extract external storage devices if you need restoring backup from internal SD.
 - The script automatically recognizes Multy-volume backup.
-- Open and look at `databackup.log`. Restoring is possible ONLY on the same system build number or higher. Also the same Magisk version is required for correct restoring.
+- Open `databackup.log` and look at backuping parameters. Restoring is possible ONLY on the same system build number or higher. Also the same Magisk version is required for correct restoring.
 - 
 ### ***From system*** (HTC Android 9, Google Pixels Android 11+, Asus Rog Android 10+)
 - Restoring is possible from working system with root, Magisk 20.4+ 
