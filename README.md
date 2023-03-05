@@ -31,16 +31,16 @@ some:
 
 ## Installing script
 
-A latest script data_restore_v2.xx-MAGISK-TWRP.zip will be copied to the root of Internal storage by installing a Magisk module data_restore_Courier_v2.xx-MAGISK.zip. data_restore_Courier module ONLY delivers the latest version of the script to intSD.
+A latest script `data_restore_v2.xx-MAGISK-TWRP.zip` will be copied to the root of Internal storage by installing a Magisk module `data_restore_Courier_v2.xx-MAGISK.zip`. data_restore_Courier module ONLY delivers the latest version of the script to intSD.
 - Download the module and copy it to internal storage.
-- In the Magisk App: Modules - Install from storage - select the downloaded data_restore_Courier module - Reboot. 
-- Find the data_restore_v2.xx-MAGISK-TWRP.zip script in the root of intSD. Done, now you can use this script.
+- In the Magisk App: Modules - Install from storage - select the downloaded `data_restore_Courier module` - Reboot. 
+- Find the `data_restore_v2.xx-MAGISK-TWRP.zip` script in the root of intSD. Done, now you can use this script.
 
 ## Running script
 
-There are 2 variants for running data_restore_v2.xx-MAGISK-TWRP.zip script:
-1. From booted system, running from Magisk module installer.
-2. Also from TWRP if it is avaialble for a device. 
+There are 2 variants for running `data_restore_v2.xx-MAGISK-TWRP.zip` script:
+1. From `booted system`, running from Magisk module installer.
+2. Also from `TWRP` if it is avaialble for a device. 
 
 ## Features of restoring data
 
