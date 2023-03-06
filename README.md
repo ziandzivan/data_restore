@@ -58,5 +58,21 @@ There are 2 variants for running `data_restore_v2.xx-MAGISK-TWRP.zip` script:
 
 ### ***From TWRP*** (if exist for the device)
 - For Google Pixels Android 11+, Asus Rog Android 10+ any wipes in TWRP are not required! Restoring from TWRP should be started on the existing configured system.
-- Choose a workable variant. For example, restoring data backup on HTC Android 7+ is possible only after format of data partition in TWRP. Then reboot TWRP and run `data_restore_v2.xx-MAGISK-TWRP.zip` script.
+- Choose a workable variant. For example, restoring data backup on HTC Android 7+ is possible only after format of data partition in TWRP. After format reboot TWRP and run `data_restore_v2.xx-MAGISK-TWRP.zip` script.
 
+## Parameters
+
+The script can be launched with keys. They should be written in the name of the script file, for example: `Data_Restore_v2.04-Twrp-m.zip`
+
+***#1***
+
+`-m` - restoring of the backup with the exception of `media`, i.e. without restoring of all contents of the internal storage in the backup;
+
+***#2***
+
+`-r` - restoring with the exception of root Magisk files, i.e. similarly as removal at Magisk uninstaller. It is useful in some cases, for example, for the subsequent installation of a new version of Magisk. Similarly as well as at uninstall of Magisk in TWRP, and in this case will be removed all root files except the base manager Magisk application which if necessary can be removed from the system as like any other application. Restoring of screen adjustments values at rebooting will take place as soon as will be installed root.
+> NOTE: _Do not hurry and not install there and then the root in TWRP.  First be once booted in the system with restored data without the root, then install it!_
+
+***#3***
+
+`-a` - despite of presence of any keys above, always to ask establishing these restoring modes manually by a dialogue Yes/No.
