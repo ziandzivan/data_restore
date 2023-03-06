@@ -52,4 +52,6 @@ There are 2 variants for running `data_restore_v2.xx-MAGISK-TWRP.zip` script:
 
 ### ***From system*** (HTC Android 9, Google Pixels Android 11+, Asus Rog Android 10+)
 - Restoring is possible from working system with root, Magisk 20.4+. Running `data_restore_v2.xx-MAGISK-TWRP.zip` is from Magisk module installer. 
-- After confirming restoring by Volune Up batton 
+- After confirming restoring by Volune Up batton, the screen will be switched off and restoring will be started.
+- > **Warning** Do not touch the device, wait for finishing restoring and automatic rebooting to system. 
+- Restoring log is written to `Datarestore.log` file in `databackup` folder. Through the PC you can spy on the progress of execution, the file will be replenished.
