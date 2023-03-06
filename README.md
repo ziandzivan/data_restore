@@ -53,7 +53,7 @@ There are 2 variants for running `data_restore_v2.xx-MAGISK-TWRP.zip` script:
 ### ***From system*** (HTC Android 9, Google Pixels Android 11+, Asus Rog Android 10+)
 - Restoring is possible from working system with root, Magisk 20.4+. Running `data_restore_v2.xx-MAGISK-TWRP.zip` is from Magisk module installer. 
 - After confirming restoring by Volune Up batton, the screen will be switched off and restoring will be started.
-- > **Warning** Do not touch the device, wait for finishing restoring and automatic rebooting to system. 
+- > **Warning** _Do not touch the device, wait for finishing restoring and automatic rebooting to system !_ 
 - Restoring log is written to `datarestore.log` file in `databackup` folder. Through the PC you can spy on the progress of execution, the file will be replenished.
 
 ### ***From TWRP*** (if exist for the device)
@@ -71,7 +71,7 @@ The script can be launched with keys. They should be written in the name of the 
 ***#2***
 
 `-r` - restoring with the exception of root Magisk files, i.e. similarly as removal at Magisk uninstaller. It is useful in some cases, for example, for the subsequent installation of a new version of Magisk. Similarly as well as at uninstall of Magisk in TWRP, and in this case will be removed all root files except the base manager Magisk application which if necessary can be removed from the system as like any other application. Restoring of screen adjustments values at rebooting will take place as soon as will be installed root.
-> NOTE: _Do not hurry and not install there and then the root in TWRP.  First be once booted in the system with restored data without the root, then install it!_
+> NOTE: _Do not hurry and not install there and then the root in TWRP.  First be once booted in the system with restored data without the root, then install it !_
 
 ***#3***
 
