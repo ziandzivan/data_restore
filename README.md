@@ -62,7 +62,7 @@ There are 2 variants for running `data_restore_v2.xx-MAGISK-TWRP.zip` script:
 
 ## Parameters
 
-The script can be launched with keys. They should be written in the name of the script file, for example: `Data_Restore_v2.04-Twrp-m.zip`
+The script can be launched with keys. They should be written in the name of the script file, for example: `data_restore_v2.xx-MAGISK-TWRP-m.zip`
 
 ***#1***
 
