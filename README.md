@@ -75,4 +75,4 @@ The script can be launched with keys. They should be written in the name of the 
 
 ***#3***
 
-`-a` - despite of presence of any keys above, always to ask establishing these restoring modes manually by a dialogue Yes/No.
+`-a` - despite of presence of any keys above, always to ask establishing these restoring modes manually with a dialogue Yes/No.
