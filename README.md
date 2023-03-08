@@ -66,16 +66,16 @@ The script can be launched with keys. They should be written in the name of the 
 
 ***#1***
 
-`-m` - restoring of the backup with the exception of `media`, i.e. without restoring of all contents of the internal storage in the backup;
+`-m` - restoring of the backup with the exception of ***media***, i.e. without restoring of all contents of the internal storage in the backup;
 
 ***#2***
 
-`-r` - restoring with the exception of root Magisk files, i.e. similarly as removal at Magisk uninstaller. It is useful in some cases, for example, for the subsequent installation of a new version of Magisk. Similarly as well as at uninstall of Magisk in TWRP, and in this case will be removed all root files except the base manager Magisk application which if necessary can be removed from the system as like any other application. Restoring of screen adjustments values at rebooting will take place as soon as will be installed root.
+`-r` - restoring with the exception of ***root*** Magisk files, i.e. similarly as removal at Magisk uninstaller. It is useful in some cases, for example, for the subsequent installation of a new version of Magisk. Similarly as well as at uninstall of Magisk in TWRP, and in this case will be removed all root files except the base manager Magisk application which if necessary can be removed from the system as like any other application. Restoring of screen adjustments values at rebooting will take place as soon as will be installed root.
 > NOTE: _Do not hurry and not install there and then the root in TWRP.  First be once booted in the system with restored data without the root, then install it !_
 
 ***#3***
 
-`-a` - despite of presence of any keys above, always to ask establishing these restoring modes manually with a dialogue Yes/No.
+`-a` - despite of presence of any keys above, always to ***ask*** establishing these restoring modes manually with a dialogue Yes/No.
 
 ## First booting to system
 
