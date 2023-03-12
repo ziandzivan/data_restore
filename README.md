@@ -79,3 +79,7 @@ The script can be launched with keys. They should be written in the name of the 
 - After first booting to system with the root will be the rebooting during a few minutes. With second booting will be restoring of screen adjustments values.
 - If the root was removed, switch off Air plane mode and set preferable screen adjustments values. After installing the root back it will be restored automatically.
 - After restoring from TWRP with a preliminary format data, renominate fingerprint and screen lock pin, password or graphic key.
+
+## Additional info
+
+a link of script attachments:
