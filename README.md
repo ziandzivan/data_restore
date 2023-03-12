@@ -82,4 +82,4 @@ The script can be launched with keys. They should be written in the name of the 
 
 ## Additional info
 
-a link of script attachments:
+a link of script attachments: https://github.com/ziandzivan/attachments_of_data_restore
