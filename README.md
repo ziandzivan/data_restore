@@ -3,7 +3,7 @@
 # data_restore
 
 ## Introduction
-Script of restoring User Data backup (created by ![data_backup.sh](https://github.com/ziandzivan/data_backup)) or from booted system with Magisk or from TWRP.
+Script of restoring User Data backup (created by ![data_backup.sh](https://github.com/Magisk-Modules-Alt-Repo/data_backup)) or from booted system with Magisk or from TWRP.
 
 ### ***Screenshots***
 
