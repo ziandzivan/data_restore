@@ -29,12 +29,9 @@ some:
 - or Magisk 20.4+ Android 9+ for restoring from booted system
 - or Android 7+ for restoring from TWRP.
 
-## Installing script
+## Installing and Updating
 
-A latest script `data_restore_v2.xx-MAGISK-TWRP.zip` will be copied to the root of Internal storage by installing a Magisk module `data_restore_Courier_v2.xx-MAGISK.zip`. data_restore_Courier module ONLY delivers the latest version of the script to intSD.
-- Download the module and copy it to internal storage.
-- In the Magisk App: Modules - Install from storage - select the downloaded `data_restore_Courier module` - Reboot. 
-- Find the `data_restore_v2.xx-MAGISK-TWRP.zip` script in the root of intSD. Done, now you can use this script.
+The latest script `data_restore_v2.xx-MAGISK-TWRP.zip` will be copied to the root of Internal storage by installing a ![Magisk Courier-module](https://github.com/ziandzivan/data_restore_Courier) `data_restore_Courier_v2.xx-MAGISK.zip`. The data_restore_Courier module ONLY delivers the latest version of the script to intSD (![README](https://github.com/ziandzivan/data_restore_Courier#readme)).
 
 ## Running script
 
