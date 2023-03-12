@@ -1,5 +1,3 @@
-> **Warning** Work in progress
-
 # data_restore
 
 ## Introduction
