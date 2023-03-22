@@ -1,5 +1,7 @@
 # data_restore
 
+> _Download releases_: https://github.com/ziandzivan/data_restore_Courier/releases
+
 ## Introduction
 Script of restoring User Data backup (created by ![data_backup.sh](https://github.com/Magisk-Modules-Alt-Repo/data_backup)) or from booted system with Magisk or from TWRP.
 
