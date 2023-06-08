@@ -5,6 +5,8 @@
 ## Introduction
 Script of restoring User Data backup (created by ![data_backup.sh](https://github.com/Magisk-Modules-Alt-Repo/data_backup)) or from booted system with Magisk or from TWRP.
 
+<a href="https://forum.xda-developers.com/t/module-discussion-data-internal-storage-backup-module-for-rooted-magisk-devices-with-twrp.4571947/#post-88369163)"><img src="https://img.shields.io/badge/XDA-discussion-yellow?longCache=true&style=flat">
+
 ### ***Screenshots***
 
 <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_restore/main/assets/Screenshot_20230301-132028.png"> <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_restore/main/assets/Screenshot_2023-03-02-03-36-34.png">
